@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "vercel": "latest"
+  },
+  "name": "vercel_xss_platform",
+  "version": "1.0.0",
+  "description": "基于vercel Serverless Functions搭建的无服务xss平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lstjks/xss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lstjks/xss/issues"
+  },
+  "homepage": "https://github.com/lstjks/xss#readme"
+}

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@beyondcode/vercel-php": "^0.0.4",
     "vercel": "latest"
   },
   "name": "vercel_xss_platform",
